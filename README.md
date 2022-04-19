@@ -1,1 +1,1 @@
-# payment-services
+# bs-payment-services
